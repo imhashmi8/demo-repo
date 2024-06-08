@@ -5,3 +5,5 @@ phases:
     commands:
        - ls -a
        - cat index.html
+       - echo "HI" > index.html
+       - cat index.html
